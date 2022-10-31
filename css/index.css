@@ -1,0 +1,51 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+.background {
+  background-image: url("images/image-3.jpg");
+  height: 100%;
+  background-position: center;
+  
+
+}
+
+.column {
+  width: 50%;
+  float: left;
+  padding: 30px;
+}
+
+.left {
+  width: 25%;
+  padding: 20px;
+}
+
+.right {
+  padding: 70px;
+  width: 50%;
+}
+
+.logo {
+  margin-left: 180px;
+}
+
+.topheader {
+  overflow: hidden;
+  padding: 30px;
+  right: 30px;
+  top: 0px;
+
+  color: rgb(255, 145, 0)
+}
+
+ 
+
+
+
+
+
+
+
